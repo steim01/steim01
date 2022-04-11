@@ -1,0 +1,54 @@
+# GitHub Action para gerar um gráfico de contribuição com uma cobra comendo suas contribuições.
+
+name: Generate Snake
+
+# Controla quando a ação será executada. Esta ação é executada a cada 6 horas.
+
+on:
+  schedule:
+      # a cada 6 hours
+    - cron: "0 */6 * * *"
+
+# Este comando nos permite executar a Ação automaticamente na aba Ações.
+  workflow_dispatch :
+
+# A sequência de execuções neste fluxo de trabalho:
+  jobs:
+  # Este fluxo de trabalho contém um único trabalho chamado "build"
+  build:
+    # O tipo de executor em que o trabalho será executado
+    runs-on : ubuntu-latest
+
+    # steps representam uma sequência de tarefas que serão executadas como parte do trabalho
+    steps :
+
+    # Verifica o repositório em $GITHUB_WORKSHOP, para que seu trabalho possa acessá-lo
+      - uses: actions/checkout@v2
+
+    # Gera a cobra  
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+        github_user_name: steim01
+    # essas próximas 2 linhas geram os arquivos em um branch chamado "output". Isso evita que o branch principal fique confuso.
+        gif_out_path : dist/github-contribution-grid-snake.gif
+        svg_out_path : dist/github-contribution-grid-snake.svg
+
+    # mostra o status da compilação. Facilita a depuração (se houver algum problema).
+      - run: git status
+
+    # Empurre as alterações
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: master
+        force: true
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+    # a ramificação de saída que mencionamos acima
+        target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
