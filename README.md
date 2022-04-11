@@ -1,24 +1,38 @@
-## Olá! Eu sou o Fernando Steimback, desenvolvedor front-end 🚀
 <div align="center">
-  <a href="https://github.com/seim01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=steim01&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steim01&layout=compact&langs_count=7&theme=merko"/>
+<h2> Olá, eu sou o <i>Fernando Steimback</i>! 👋🏼 </h2>
+<p> Desenvolvedor <i><strong>Front-end</i></strong> 🚀 </p>
 </div>
+
+<div>
+<a href="https://github.com/steim01"/>   
   
-<div style="display: inline_block"><br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=steim01&theme=dracula&show_icons=true&locale=pt-br&title_color=FFFFFF&text__color=FFFFFF&icon_color=00D9B5&bg_color=DEG,051937,00456A,007789,00A88C&border_color=2F4858&include_all_commits=true&count_private=true"/>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steim01&theme=dracula&layout=compact&locale=pt-br&title_color=FFFFFF&text__color=FFFFFF&bg_color=DEG,00A88C,007789,00456A,051937&border_color=2F4858&langs_count=10"/>
+</div>
+<hr>
+  
+<div style="display: inline_block" >
 
   <h3> Techs que tenho conhecimento: </h3>
-  <img align="center" alt="Steim01-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Steim01-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Steim01-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Steim01-BOOTSTRAP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img align="center" alt="Steim01-GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />                                                                                                         
-  <h3> Techs que estou estudando no momento: </h3>
-  <img align="center" alt="Steim01-REACT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Steim01-NODE.JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Steim01-REDUX" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/ee791c255cf59c4b22cf1a3fe7854d5171b49dea5ff329074ba89d7a110d420d/68747470733a2f2f66696c65732e726561646d652e696f2f386331313931312d73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966">
+  <div style="display: inline_block">
+    <img align="center" alt="Steim01-HTML" src="https://img.shields.io/badge/HTML5-00456A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+    <img align="center" alt="Steim01-CSS"  src="https://img.shields.io/badge/CSS3-00456A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+    <img align="center" alt="Steim01-JS" src="https://img.shields.io/badge/JavaScript-00456A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img align="center" alt="Steim01-BOOTSTRAP" src="https://img.shields.io/badge/BOOTSTRAP-00456A?style=for-the-badge&logo=bootstrap&logoColor=blueviolet"/>
+    <img align="center" alt="Steim01-GIT" src="https://img.shields.io/badge/GIT-00456A?style=for-the-badge&logo=git&logoColor=#e8373e"/>
+   
+  </div>
+   
+                                                                                                          
+  <h3> Techs que estou estudando no momento: </h3>
+  <img align="center" alt="Steim01-REACT" src="https://img.shields.io/badge/REACT-00456A?style=for-the-badge&logo=react&logoColor=#00c9d2"/>
+  <img align="center" alt="Steim01-NODE.JS" src="https://img.shields.io/badge/NODE.JS-00456A?style=for-the-badge&logo=node.js&logoColor=#beee3b"/>
+  <img align="center" alt="Steim01-REDUX" src="https://img.shields.io/badge/REDUX-00456A?style=for-the-badge&logo=redux&logoColor=#a70267"/>
+  <img align="center" alt="Steim01-TYPESCRIPT" src="https://img.shields.io/badge/TYPESCRIPT-00456A?style=for-the-badge&logo=typescript&logoColor=#5ecde0"/>
+  
+  <img align="right" alt="steim01-pic" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/ee791c255cf59c4b22cf1a3fe7854d5171b49dea5ff329074ba89d7a110d420d/68747470733a2f2f66696c65732e726561646d652e696f2f386331313931312d73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966">
   
 </div>
   
