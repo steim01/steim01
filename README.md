@@ -30,7 +30,7 @@
    
                                                                                                           
   <h3> Techs que estou estudando no momento: </h3>
-  <img align="center" alt="Steim01-JAVA" src="https://img.shields.io/badge/JAVA-00456?style=for-the-badge&logo=java&logoColor=#00c9d2"/>
+  <img align="center" alt="Steim01-JAVA" src="https://img.shields.io/badge/JAVA-00456A?style=for-the-badge&logo=java&logoColor=red"/>
 
   
   
