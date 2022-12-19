@@ -1,6 +1,6 @@
 <div align="center">
 <h2> Olá, eu sou o <i>Fernando Steimback</i>! 👋🏼 </h2>
-<p> Desenvolvedor <i><strong>Java</i></strong> 🚀 </p>
+<p> Desenvolvedor <i><strong>Front-end</i></strong> 🚀 </p>
 </div>
 
 <div>
@@ -36,16 +36,4 @@
   
   <img align="right" alt="steim01-pic" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/ee791c255cf59c4b22cf1a3fe7854d5171b49dea5ff329074ba89d7a110d420d/68747470733a2f2f66696c65732e726561646d652e696f2f386331313931312d73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966">
   
-</div>
-  
-  ##
- 
-<div align-itens="center" > 
- 
-  <a href="https://www.instagram.com/devsteim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:fernandosteimback@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernando-steimback" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
