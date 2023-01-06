@@ -25,14 +25,17 @@
     <img align="center" alt="Steim01-GITHUB" src="https://img.shields.io/badge/GITHUB-00456A?style=for-the-badge&logo=github&logoColor=blueviolet"/>
     <img align="center" alt="Steim01-TYPESCRIPT" src="https://img.shields.io/badge/TYPESCRIPT-00456A?style=for-the-badge&logo=typescript&logoColor=#5ecde0"/>
     <img align="center" alt="Steim01-ANGULAR" src="https://img.shields.io/badge/ANGULAR-00456A?style=for-the-badge&logo=angular&logoColor=red"/>
-   
+    <img align="center" alt="Steim01-JAVA" src="https://img.shields.io/badge/JAVA-00456A?style=for-the-badge&logo=java&logoColor=red"/>
   </div>
    
                                                                                                           
   <h3> Techs que estou estudando no momento: </h3>
-  <img align="center" alt="Steim01-JAVA" src="https://img.shields.io/badge/JAVA-00456A?style=for-the-badge&logo=java&logoColor=red"/>
-
+ 
+  Banco de dados:
+    Relacional: MySql
+    Não Relacional: MongoDB
   
+
   
   <img align="right" alt="steim01-pic" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/ee791c255cf59c4b22cf1a3fe7854d5171b49dea5ff329074ba89d7a110d420d/68747470733a2f2f66696c65732e726561646d652e696f2f386331313931312d73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966">
   
