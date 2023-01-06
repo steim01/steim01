@@ -1,6 +1,6 @@
 <div align="center">
 <h2> Olá, eu sou o <i>Fernando Steimback</i>! 👋🏼 </h2>
-  <p> Desenvolvedor <i><strong> Web com foco em Front-End</i></strong> 🚀 </p>
+  <p> <i><strong>Desenvolvedor Web com foco em Front-End</i></strong> 🚀 </p>
 </div>
 
 <div>
